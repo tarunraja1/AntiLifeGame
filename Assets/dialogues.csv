@@ -1,0 +1,76 @@
+1,Scene 1:,Player,"Another human, I am really happy to see someone with flesh and bones for a change!"
+1,,NPC,"I cannot believe my eyes, Is it really a human I am seeing?"
+1,"Player starts out in an abandoned settlement. For the tutorial, He has to ",Player,"I am as human as human can be. I am Bailey, Leader of squadron Beta. I came looking for allies to fight the Robots. Could you please provide intel on the location of the other humans?"
+1,talk to a non player character to get acquainted with the controls and movements.,NPC,Fight the Robots?? You must be kidding me! Those things are indestructible. Are you not aware of the fate of the humans who tried to fight them?
+1,,Player,I am aware. But I come with a plan. I am going to give them a taste of their own intelligence.
+1,,NPC,"Hmmm.. You sound confident, Young lad."
+1,,NPC,"Hold on, According to the Human survival ethics, Before I can disclose confidential information, I have to verify if you are human or a humanoid spy."
+1,,,What is the human pass phrase?
+1,,Human,"To Humanity, And Beyond!"
+1,,NPC,"To Humanity, And Beyond!,  Correct. My my, You really are a human!"
+1,,,"Before you start your quest, Lets get you acquainted with your basic movements and controls ."
+1,,Human,Sure! I am ready when you are.
+1,,NPR,Use your arrow buttons to move. Use the space bar to jump. Press shift to Sprint
+1,,,You can also strafe left or right with the corresponding direction key without moving the mouse.
+2,,,Aim using the mouse pointer and shoot with left mouse button.
+2,,,Great! Now for the most important part. Lets test your shooting skills
+3,,,Shoot the three targets behind me from your location
+3,(The first destination appears as a waypoint on the minimap),,Congratulations for having accomplished your first step to save Humanity. 
+3,,,You will head to the base camp marked on your map. Any ally you find there will help you progress
+4,,,My best wishes for you to succeed in your mission and bring peace to this world again.
+4,Scene 2: A trustworthy alliance,,Helpp!! Please help me.
+4,"Bailey walks towards the base camp to find Humans. Suddenly, A chilling scream breaks out",NPC,"Whoah.. Slow down. I am Bailey, leader of squadron Beta and I come looking for allies. Tell me what happened?"
+4, through the silent forest atmosphere. An NPC comes running towards Bailey.,Bailey,(panting) I got outnumbered 3 to 1. I am being chased.
+4,,NPC,Well Well well… what do we have here. Another human? I thought your race was already extinct.
+4,,Robot 1,Humies think they can beat robots. Robots gonna take over the world!
+4,,Robot 2,Not if I can help it. (Raises Gun)
+5,,Bailey,(Fierce Battle Rages)
+5,,NPC,"Bailey, did you notice the look on their eyes? I get the feeling they must be controlled by Darwin"
+6,Scene 3: First Hope- The Military Base,Bailey,That explains why these Robots are so fierce. Darwin wants us wiped off of the face of this planet.
+6,,Player,Ohh… Myy… God… 
+6,The player comes within the visible range of the military base. This triggers a dialogue,NPC,What?
+6,that shows the excitement of the characters,Player,Did you see that?
+6,,NPC,I see an old building. But aren't we looking for the military base to be able to fend off the robots
+6,,Player,I have a bad feeling about this. This battered building here looks exactly like the military base I have seen before
+6,,,Whatever Human Resistance that was here probably succumbed to the wrath of the Robot Army
+6,,NPC,"Oh no! This is bad. Really bad. Bailey, Does that mean all our efforts were in vain."
+7,Scene 4:,Player,Don’t give up so soon. Lets regroup at this base and make a plan to thwart these meddling robots
+7,The player and NPC enter the base where robots are patrolling,NPC,No signs of survivors. But these patrolling robots are everywhere.
+7,,Player,The Robots are busy plotting to take over the world. We should use this opportunity to launch a surprise attack.  
+8,After finishing off the Robots,NPC,We should take them out quickly before they alert the base
+8,,Player,Phew. That’s all of them. We have captured this base!
+8,,NPC,We are running out of resources. We need to stock up.
+8,,Player,"Yup. Before we venture into more dangerous territory, let us scavenge this base for any materials we could use."
+8,,NPC,Good idea.
+8,,Player,All hands on deck!
+9,Scene 5: An enlightening discovery,NPC,Aye aye captain Bailey
+9,While our heroes scavenge the base. They accidentally stumble upon a network of switches ,NPC,"Bailey, Take a look at this."
+9,"and circuits. On activating the large switch, There appears a flash above them.  They follow",Player,Wow. I wonder what all these wires are for. 
+9,the light with their eyes as it flashes across them and then shines on a distant building,NPC,It looks like a power house. It must be transmitting power to some other place. But where would it deliver to?
+9,,Player,I have got a hunch we are soon going to find out.
+9,,NPC,Well. I hope so. 
+9,,,"Bailey, Look up there. There is a lever"
+9,(A flash of light blinds them both for a moment),Player,Yes. Lets check out what it is for. (Bailey pulls down the lever)
+9,,,
+9,(The light shines bright on the building),,Look. The light is moving towards that building.
+9,,,
+9,,NPC,Ohh noo. That is the Robot base. What have we done? Now the Robots will be alerted.
+10,Player finds 3 EMP components scattered around the base. This adds an EMP device to his,Player,"Don’t worry. Now that we know where the base is, I have got a plan to execute"
+10,inventory. His job is to place the EMP within striking range of Darwin,NPC,What is it?
+10,,Player,The Human squadron Alpha was here before us and tried to assemble an EMP device to destroy the base. But the humans carrying the three parts of it were spotted by the Robots. They are now MIA
+10,,NPC,"So if we find the 3 parts, we could destroy the Robot Base and Darwin and save the entire Human race from extinction."
+10,,Player,"Exactly, Lets start by looking around this base. We should be stealthy to avoid being spotted by hostiles."
+10,They move towards the base taking out any hostile robots on the way,Player,"Finally, we are all set to send Darwin back to Robot hell."
+11,"Once they reach within the range of Darwin, He sees them. Darwins voice speaks out.",NPC,All right. Lets show him who is boss.
+11,,Darwin,Whoever dares to challenge the intelligence of Darwin will suffer. Surrender before me and I will spare you life
+11,,Bailey,"I am Bailey, leader of Squadron Beta. I have come to avenge the death of my fallen brothers and to put an end to your tyranny."
+11,,Darwin,Fool! Darwin cannot be beaten by the likes of a puny human like you. 
+11,,,You humans are idiots. We took advantage of your inferiority to build a separate network of cables. 
+11,,Bailey,Separate network. And where would that be.
+11,,Darwin,Do you not see the vast array of cables behind me. It is my creation and will keep us alive.
+11,,Bailey,"Well then, Thanks for revealing the location of my target. Makes my job of blowing it up easier."
+12,Final battle. Bailey has the option to kill all the robots or to plant the EMP device and flee,Darwin,What. Nooo. Robots. Get him!!
+12,"Once he is out of the blast radius, He blows up the Base along with Darwin screaming.",Darwin,Nooo. My babies.. My precious babies.
+12,,,Baiiiiiileey.. You have no idea what you have done. I will rise again. I will come back for you and hunt you down.
+,,Bailey,(With a smirk) I am waiting!
+,A cut scene could show a cinematic ending.,,
